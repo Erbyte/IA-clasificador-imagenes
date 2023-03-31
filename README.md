@@ -1,2 +1,2 @@
-# IA-clasificador-imagenes
-Clasificador de imagenes con Python, Tensorflow
+# Clasificador de imaneges
+Clasificador de imagenes con Python, Tensorflow y entrenamiento de modelo
